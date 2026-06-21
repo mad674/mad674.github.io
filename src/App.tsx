@@ -199,7 +199,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex-shrink-0">
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                Madhav Meruva
+                M V S MADHAV
               </span>
             </div>
             
@@ -221,7 +221,7 @@ function App() {
                   </button>
                 ))}
                 <a
-                  href="/Madhav_Meruva_Resume.pdf"
+                  href="/Madhav_M_V_S_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-8 inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-blue-500/25"
@@ -270,7 +270,7 @@ function App() {
             <div className="w-40 h-40 mx-auto mb-6 relative flex items-center justify-center">
               <img
                 src="/ma2.jpg"
-                alt="Madhav Meruva profile"
+                alt="M V S MADHAV profile"
                 className="w-40 h-40 rounded-full border-4 border-blue-500 object-cover shadow-lg bg-white"
                 style={{ objectPosition: 'top center ', background: '#fff' }}
               />
@@ -278,7 +278,7 @@ function App() {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent animate-pulse">
-              Madhav Meruva
+              M V S MADHAV
             </h1>
             
             <div className="h-20 mb-8 flex items-center justify-center">
@@ -713,7 +713,7 @@ function App() {
               <Linkedin size={40} className="mb-3 text-blue-400 group-hover:text-blue-500 transition-colors" />
               <div className="font-bold text-lg text-white mb-1">LinkedIn</div>
               <div className="text-blue-400 text-sm mb-2">Professional</div>
-              <div className="text-gray-300 text-xs">Madhav Meruva</div>
+              <div className="text-gray-300 text-xs">M V S MADHAV</div>
             </a>
             {/* LeetCode */}
             <a href="https://leetcode.com/u/123mad/" target="_blank" rel="noopener noreferrer" className="group bg-gradient-to-br from-gray-800 via-gray-900 to-yellow-700 rounded-2xl p-6 border-2 border-gray-700 hover:border-yellow-500 shadow-xl hover:scale-105 transition-all duration-300 flex flex-col items-center text-center">
@@ -730,7 +730,7 @@ function App() {
               <div className="text-gray-300 text-xs">madhi9</div>
             </a>
             {/* Resume */}
-            <a href="/Madhav_Meruva_Resume.pdf" target="_blank" rel="noopener noreferrer" className="group bg-gradient-to-br from-gray-800 via-gray-900 to-pink-500 rounded-2xl p-6 border-2 border-gray-700 hover:border-pink-400 shadow-xl hover:scale-105 transition-all duration-300 flex flex-col items-center text-center">
+            <a href="/Madhav_M_V_S_Resume.pdf" target="_blank" rel="noopener noreferrer" className="group bg-gradient-to-br from-gray-800 via-gray-900 to-pink-500 rounded-2xl p-6 border-2 border-gray-700 hover:border-pink-400 shadow-xl hover:scale-105 transition-all duration-300 flex flex-col items-center text-center">
               <FileText size={40} className="mb-3 text-pink-400 group-hover:text-pink-500 transition-colors" />
               <div className="font-bold text-lg text-white mb-1">Resume</div>
               <div className="text-pink-400 text-sm mb-2">PDF</div>
@@ -783,7 +783,7 @@ function App() {
                   </div>
                 </div>
                 
-                <a href="/Madhav_Meruva_Resume.pdf" download className="mt-8 inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-blue-500/25">
+                <a href="/Madhav_M_V_S_Resume.pdf" download className="mt-8 inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white rounded-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-blue-500/25">
                   <Download size={20} />
                   Download Resume
                 </a>
@@ -798,7 +798,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Madhav Meruva. Crafted with passion and innovation.
+              © 2024 M V S MADHAV. Crafted with passion and innovation.
             </p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a href="https://github.com/mad674" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors hover:scale-110 transform">
